@@ -1,8 +1,8 @@
 R               1440              900 
 
 NO    ./textures/xpm/walls/colorstone.xpm          
-SO ./textures/xpm/walls/wall_grey_rock.xpm
-WE ./textures/xpm/walls/wall_brown_tiles.xpm
+SO ./textures/xpm/walls/redbrick.xpm
+WE ./textures/xpm/walls/greystone.xpm
 EA             ./textures/xpm/walls/wall_white_rock.xpm
 S        ./textures/xpm/sprites/box_2.xpm           
 
