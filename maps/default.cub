@@ -1,12 +1,12 @@
-R               1440              900
+R               1440              900 
 
-NO ./textures/xpm/walls/colorstone.xpm
+NO    ./textures/xpm/walls/colorstone.xpm          
 SO ./textures/xpm/walls/wall_grey_rock.xpm
 WE ./textures/xpm/walls/wall_brown_tiles.xpm
 EA             ./textures/xpm/walls/wall_white_rock.xpm
 S        ./textures/xpm/sprites/box_2.xpm           
 
-F  0,0            0          
+F  0,0,0          
 C 255 255 0           
 
                                          11111111111111111

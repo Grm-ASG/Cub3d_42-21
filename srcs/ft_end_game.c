@@ -6,7 +6,7 @@
 /*   By: imedgar <imedgar@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/11/05 16:05:43 by imedgar           #+#    #+#             */
-/*   Updated: 2020/11/07 09:43:50 by imedgar          ###   ########.fr       */
+/*   Updated: 2020/11/07 10:53:02 by imedgar          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -87,7 +87,7 @@ static void	ft_error_1(int err_code)
 	else if (err_code == MLX_BAD_RETURN)
 		ft_putendl_fd_err("Mlx return NULL ¯\\_(ツ)_/¯");
 	else if (err_code == BAD_TEX_IN_GAME)
-		ft_putendl_fd_err("Some thing bad whith textures");
+		ft_putendl_fd_err("Something bad whith textures");
 	ft_exit(err_code);
 }
 
